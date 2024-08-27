@@ -9,10 +9,10 @@ var config = {
     inset: true,
     theme: 'dark',
     use3dTerrain: true, //set true for enabling 3D maps.
-    title: '\nAmplifier la voix des leaders culturels\ndans le territoire de Rutshuru de la\nRépublique démocratique du Congo',
-    subtitle: 'Dépassant le conflit armé, la lutte pour les ressources et la militarisation de la conservation, \ncette plateforme présente le territoire du point de vue de ses leaders culturels, \ndont la voix est cruciale pour construire un avenir pacifique et réaliser la justice sociale et écologique\n\n',
-    byline: 'Avec la contribution de leaders culturels,</br>de défenseurs et défenseures de l\'environnement et des droits de l\'homme de la province du Nord-Kivu</br></br>Langues: <a href="index.html" >Français</a>, <a href="index.html" >Swahili</a>, <a href="en.html" >Anglais</a>',
-    footer: '<img style="vertical-align: middle" src="./images/xr.jpg" width="20">   Ce prototype a été conceptualisé et développé par XR Rutshuru / RDC et ses alliés.',
+    title: '\nAmplifying the voices of the cultural leaders\nin the Rutshuru territory of\nthe Democratic Republic of the Congo',
+    subtitle: 'Looking beyond the armed conflict, the struggle for resources, and the fortress conservation, \nthis platform frames the territory from the perspective of its cultural leaders, \nwhose voice is crucial to building a peaceful future and achieving social and ecological justice\n\n',
+    byline: 'With contributions from cultural leaders,</br>Environmental and Human Rights defenders from North Kivu Province</br></br>Languages: <a href="index.html" >French</a>, <a href="index.html" >Swahili</a>, <a href="en.html" >English</a>',
+    footer: '<img style="vertical-align: middle" src="./images/xr.jpg" width="20">   This prototype was conceptualised and developed by XR Rutshuru / DRC and its allies',
     chapters: [
         {
             id: 'slug-style-id',
@@ -20,7 +20,7 @@ var config = {
             hidden: false,
             title: ' ',
             image: './images/DRC-Kivu.jpg',
-            description: 'Le territoire Rutshuro de la République démocratique du Congo, formé par les chefferies Bwisa et Bwito, s\'étend entre les lacs Edward et Kivu et partage des frontières avec le Rwanda et l\'Ouganda. Cette écorégion de forêt humide tropicale à larges feuilles, non sans connaître des difficultés de coexistence, abrite 800.000 personnes parmi les peuples Hutu, Nande, Hunde, Tutsu et Pygmée.',
+            description: 'The Rutshuro territory of the Democratic Republic of the Congo, formed by the Bwisa and Bwito chiefdoms, stretches between Lakes Edward and Kivu sharing borders with Rwanda and Uganda. This tropical moist broadleaf forest ecoregion, not without difficulties of coexistence, shelters 800.000 among Hutu, Nande, Hunde, Tutsu and Pygmée People.',
             location: {
                 center: [29.331751305136, -1.30208414974959],
                 zoom: 9.5,
@@ -119,9 +119,9 @@ var config = {
             id: 'second-identifier',
             alignment: 'right',
             hidden: false,
-            title: 'Le monde nous reconnaît pour l\'abondance des ressources de nos terres. Les Européens, les Chinois, les Nord-Américains et les Australiens colonisent nos montagnes, nos eaux et nos forêts en exploitant nos populations dans les domaines minier et forestier.',
+            title: 'The world recognises us for the abundance of resources from our lands. Europeans, Chinese, North Americans and Australians colonise our mountains, waters and forests exploiting our people in mining and logging.',
             image: '',
-            description: 'Vidéo: Ley Uwera <video width="100%" controls><source src="./video/Ley_Uwera_480x852_1437873599503798279.mp4" type="video/mp4" />',
+            description: 'Video: Ley Uwera <video width="100%" controls><source src="./video/Ley_Uwera_480x852_1437873599503798279.mp4" type="video/mp4" />',
             location: {
                 center: [29.02808985099757, -1.1811485557502555],
                 zoom: 9,
@@ -210,9 +210,9 @@ var config = {
             id: 'third-identifier',
             alignment: 'right',
             hidden: false,
-            title: 'Le monde nous reconnaît pour un conflit violent et prolongé entre nos peuples, dont la cause est attribuée à une lutte pour les ressources. Mais les ressources ne sont que le prétexte du conflit, alimenté au contraire par une guerre de pouvoir et d\'influence, ainsi que par des questions d\'accès à la terre, de citoyenneté et d\'identité.',
+            title: 'The world recognises us for a prolonged violent conflict between our People, whose cause is attributed to a struggle over resources. But resources are only the pretext for the conflict, fuelled instead by a struggle over power and influence, as well as issues of land access, citizenship and identity.',
             image: './images/160523162718-burnt-house-north-kivu-province-drc.jpg',
-            description: 'Photo: Une hutte incendiée dans un village. Fiston Mahamba',
+            description: 'Image: A burnt hut in a village. Fiston Mahamba',
             location: {
                 center: [29.02808985099757, -1.1811485557502555],
                 zoom: 9,
@@ -300,9 +300,9 @@ var config = {
             id: 'fourth-chapter',
             alignment: 'left',
             hidden: false,
-            title: 'Le monde nous reconnaît parce que sur ces terres, nous coexistons avec plus d\'un millier d\'espèces de mammifères, d\'oiseaux, de reptiles et d\'amphibiens, ainsi qu\'avec un tiers des gorilles de montagne, une espèce menacée. Mais au lieu de la coexistence, on a préféré délimiter une partie des terres dont dépend notre subsistance, en l\'appelant Parc national des Virunga, et en la sécurisant sous la menace d\'une arme.',
+            title: 'The world recognises us because in these lands we coexist with over a thousand species of mammals, birds, reptiles and amphibians, and a third of the endangered mountain gorillas. But instead of coexistence, it was preferred to fence off part of the land on which our subsistence depends, calling it Virunga National Park, and have it secured at gunpoint.',
             image: './images/s2HTZQH.jpeg',
-            description: 'Photo: Un instructeur des forces spéciales françaises montre à un garde forestier du parc des Virunga comment se servir d\'un AK-4.',
+            description: 'Image: Former French special forces arms instructor teaches a Virunga park ranger the use of an AK-4.',
             location: {
                 center: [29.02808985099757, -1.1811485557502555],
                 zoom: 9,
@@ -369,9 +369,9 @@ var config = {
             id: 'fifth-chapter',
             alignment: 'fully',
             hidden: false,
-            title: 'Nous aimerions que le monde reconnaisse la relation entre nos corps, notre terre et nos langues. Nous aimerions partager des histoires pour vous permettre de comprendre les défis auxquels nous sommes confrontés. Allons-y !',
+            title: 'We would like the world to recognise the relationship between our bodies, our land and our languages. We would like to share stories to make you understand the challenges we are facing. Let\'s start!',
             image: './images/FdbpdsvWIAAGeua.jpg',
-            description: 'Photo: XR Rutshuru',
+            description: 'Image: XR Rutshuru',
             location: {
                 center: [29.331751305136, -1.30208414974959],
                 zoom: 9.5,
@@ -457,14 +457,14 @@ var config = {
                     opacity: 0,
                 },
             ]
-        }
+        }, 
         // {
         //     id: 'sixth-chapter',
         //     alignment: 'left',
         //     hidden: false,
-        //     title: 'Entrez le texte de l\'histoire ici. La localisation apparaîtra sur la carte. Vous pouvez ajouter une photo ou une vidéo. N\'oubliez pas d\'indiquer le crédit',
+        //     title: 'Enter the text of the story here. The location will appear on the map. You can add a photograph or video. Remember to give credit',
         //     image: './images/Fb0DWpCWQAI3Qkj.jpg',
-        //     description: 'Photo/vidéo: ',
+        //     description: 'Image/video: ',
         //     location: {
         //         center: [29.1778973558354, -1.1868462566597333],
         //         zoom: 10,
